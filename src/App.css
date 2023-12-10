@@ -100,7 +100,7 @@
   background-color: goldenrod;
   height: 600px;
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\climate.jpg");
   /* background-repeat: no-repeat; */
   /* justify-content: center; */
