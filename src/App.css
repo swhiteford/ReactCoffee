@@ -31,7 +31,7 @@
   height: 800px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\mymod2project\coffeefruitandchoc.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\coffeefruitandchoc.jpg');
   background-repeat: no-repeat;
 
 }
@@ -41,7 +41,7 @@
     height: 600px;
     display: flex;
     /* align-items: center; */
-    background-image: url('C:\Users\user\Desktop\mymod2project\altitude.jpg');
+    background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\altitude.jpg');
     background-repeat: no-repeat;
     justify-content: center;
 
@@ -52,7 +52,7 @@
   height: 600px;
   display: flex;
   /* align-items: center; */
-  background-image: url('C:\Users\user\Desktop\mymod2project\harvesting.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\harvesting.jpg');
   background-repeat: no-repeat;
   justify-content: center;
 
@@ -63,7 +63,7 @@
   height: 600px;
   display: flex;
   /* align-items: center; */
-  background-image: url('C:\Users\user\Desktop\mymod2project\othernames.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\othernames.jpg');
   background-repeat: no-repeat;
   justify-content: center;
 
@@ -74,7 +74,7 @@
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\mymod2project\regions.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\regions.jpg');
   background-repeat: no-repeat;
   justify-content: center;
 
@@ -85,7 +85,7 @@
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\mymod2project\variety.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\variety.jpg');
   background-repeat: no-repeat;
   justify-content: center;
 flex-direction: column;
@@ -96,7 +96,7 @@ flex-direction: column;
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\mymod2project\climate.jpg');
+  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\climate.jpg');
   background-repeat: no-repeat;
   justify-content: center;
 flex-direction: column;
