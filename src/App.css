@@ -103,7 +103,7 @@
   align-items: center;
   background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\climate.jpg");
   background-repeat: no-repeat;
-  justify-content: center;
+  /* justify-content: center; */
   /* flex-direction: row; */
   /* line-height: 200px; */
   /* margin-top: 100px; */
