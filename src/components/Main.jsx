@@ -48,13 +48,10 @@ function Main() {
   }, []);
 
   return (
-
-    <div class="container">
     <div className="Main">
       {Object.keys(pet).map((item, index) => (
         <CatDisplay key={index} myValue={pet[item]} />
       ))}
-    </div>
     </div>
   );
 }

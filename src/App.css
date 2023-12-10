@@ -1,8 +1,7 @@
 .container {
   .container {
     padding: 15px;
- }
-
+  }
 }
 
 .Main {
@@ -38,25 +37,22 @@
 }
 
 .flavor {
-
   background-color: bisque;
   height: 800px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\coffeefruitandchoc.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\coffeefruitandchoc.jpg");
   background-repeat: no-repeat;
-
 }
-  
-  .GrowingAltitude {
-    background-color: palegreen;
-    height: 600px;
-    display: flex;
-    /* align-items: center; */
-    background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\altitude.jpg');
-    background-repeat: no-repeat;
-    justify-content: center;
 
+.GrowingAltitude {
+  background-color: palegreen;
+  height: 600px;
+  display: flex;
+  /* align-items: center; */
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\altitude.jpg");
+  background-repeat: no-repeat;
+  justify-content: center;
 }
 
 .HarvestingMethod {
@@ -64,10 +60,9 @@
   height: 600px;
   display: flex;
   /* align-items: center; */
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\harvesting.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\harvesting.jpg");
   background-repeat: no-repeat;
   justify-content: center;
-
 }
 
 .OtherNames {
@@ -75,10 +70,9 @@
   height: 600px;
   display: flex;
   /* align-items: center; */
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\othernames.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\othernames.jpg");
   background-repeat: no-repeat;
   justify-content: center;
-
 }
 
 .regions {
@@ -86,10 +80,9 @@
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\regions.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\regions.jpg");
   background-repeat: no-repeat;
   justify-content: center;
-
 }
 
 .Variety {
@@ -97,10 +90,10 @@
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\variety.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\variety.jpg");
   background-repeat: no-repeat;
   justify-content: center;
-flex-direction: column;
+  flex-direction: column;
 }
 
 .climate {
@@ -108,13 +101,17 @@ flex-direction: column;
   height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('C:\Users\user\Desktop\ReactCoffeeProj\climate.jpg');
+  background-image: url("C:\Users\user\Desktop\ReactCoffeeProj\climate.jpg");
   background-repeat: no-repeat;
   justify-content: center;
-flex-direction: column;
+  flex-direction: column;
+  line-height: 200px;
+margin-top: -100px;
+position: absolute;
+text-align: center;
+top: 50%;
+  
 }
-
-
 
 /* .climatepg {
   display: flexbox;
@@ -164,7 +161,6 @@ flex-direction: column;
   from {
     transform: rotate(0deg);
   } */
-  /* to {
+/* to {
     transform: rotate(360deg);
   } */
-
