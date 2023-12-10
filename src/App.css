@@ -1,0 +1,159 @@
+.Main {
+  display: flex;
+  justify-content: row;
+  height: 800px;
+  gap: 8%;
+  text-align: justify;
+  font-family: sans-serif;
+  font-weight: 100;
+  background-color: blanchedalmond;
+}
+
+
+.NavBar {
+  display: flex;
+  justify-content: center;
+  /* word-spacing: 10%; */
+  gap: 8%;
+  text-align: justify;
+  font-family: sans-serif;
+  font-weight: 600;
+  background-color: burlywood;
+  text-shadow: 0cqmax;
+  text-decoration: wavy;
+  text-decoration-color: black;
+  text-transform: initial;
+  font-variant-caps: normal;
+}
+
+.flavor {
+
+  background-color: bisque;
+  height: 800px;
+  display: flex;
+  align-items: center;
+  background-image: url('C:\Users\user\Desktop\mymod2project\coffeefruitandchoc.jpg');
+  background-repeat: no-repeat;
+
+}
+  
+  .GrowingAltitude {
+    background-color: palegreen;
+    height: 600px;
+    display: flex;
+    /* align-items: center; */
+    background-image: url('C:\Users\user\Desktop\mymod2project\altitude.jpg');
+    background-repeat: no-repeat;
+    justify-content: center;
+
+}
+
+.HarvestingMethod {
+  background-color: burlywood;
+  height: 600px;
+  display: flex;
+  /* align-items: center; */
+  background-image: url('C:\Users\user\Desktop\mymod2project\harvesting.jpg');
+  background-repeat: no-repeat;
+  justify-content: center;
+
+}
+
+.OtherNames {
+  background-color: chocolate;
+  height: 600px;
+  display: flex;
+  /* align-items: center; */
+  background-image: url('C:\Users\user\Desktop\mymod2project\othernames.jpg');
+  background-repeat: no-repeat;
+  justify-content: center;
+
+}
+
+.regions {
+  background-color: forestgreen;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  background-image: url('C:\Users\user\Desktop\mymod2project\regions.jpg');
+  background-repeat: no-repeat;
+  justify-content: center;
+
+}
+
+.Variety {
+  background-color: salmon;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  background-image: url('C:\Users\user\Desktop\mymod2project\variety.jpg');
+  background-repeat: no-repeat;
+  justify-content: center;
+flex-direction: column;
+}
+
+.climate {
+  background-color: goldenrod;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  background-image: url('C:\Users\user\Desktop\mymod2project\climate.jpg');
+  background-repeat: no-repeat;
+  justify-content: center;
+flex-direction: column;
+}
+
+
+
+/* .climatepg {
+  display: flexbox;
+  flex-direction: column;
+  flex-grow: 1;
+  text-transform: initial;
+  background-color: lightgreen;
+  height: 100%;
+  
+} */
+/* background-image: url("C:\Users\user\Desktop\mymod2project\climate.jpg"); */
+/* background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
