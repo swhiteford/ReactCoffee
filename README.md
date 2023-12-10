@@ -7,5 +7,5 @@ This project aims to explore the diverse world of coffee, focusing on different 
 ##H2 Project Structure
 The project will be structured as follows:
 •	**bold text** Coffee Variety Database 	**bold text**: This will be a central repository of information about coffee varieties, including their names, origin countries, regions, processing methods, flavor profiles, cultivation practices, and recommended brewing methods.
-•		**bold text** Variety Profiles 	**bold text**: Each coffee variety will have its own dedicated page with detailed information, including its history, cultivation methods, unique characteristics, flavor notes, brewing tips, and recommendations for pairing with food.
+•		**bold text** Variety Profiles 	**bold text**: Each coffee variety will have its own dedicated page with detailed information, including its history, cultivation methods, climate and altitude in which it is grown and other names it may go by.
 
