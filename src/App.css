@@ -1,3 +1,10 @@
+.container {
+  .container {
+    padding: 15px;
+ }
+
+}
+
 .Main {
   display: flex;
   justify-content: row;
@@ -27,7 +34,7 @@
   text-transform: initial;
   font-variant-caps: normal;
   margin-left: 25px;
-  margin-right: 25px;
+  /* margin-right: 25px; */
 }
 
 .flavor {
